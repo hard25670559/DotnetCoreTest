@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationConsole", "Migrati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{978EC54D-0720-4B26-BD0A-9745C17DC7F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToManyTest", "ManyToManyTest\ManyToManyTest.csproj", "{B7634417-2C7D-483F-89E2-EB98357CED2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{978EC54D-0720-4B26-BD0A-9745C17DC7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{978EC54D-0720-4B26-BD0A-9745C17DC7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{978EC54D-0720-4B26-BD0A-9745C17DC7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7634417-2C7D-483F-89E2-EB98357CED2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7634417-2C7D-483F-89E2-EB98357CED2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7634417-2C7D-483F-89E2-EB98357CED2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7634417-2C7D-483F-89E2-EB98357CED2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +84,7 @@ Global
 		{EDBD12B8-1290-42D4-BD92-80A7C7CD40EE} = {149C4157-3549-4166-8970-46469FBD304F}
 		{051C9274-2132-42EE-B5D3-6E92D3058F21} = {A16E2D26-917C-45DB-8E66-619025EFD5F2}
 		{978EC54D-0720-4B26-BD0A-9745C17DC7F1} = {A16E2D26-917C-45DB-8E66-619025EFD5F2}
+		{B7634417-2C7D-483F-89E2-EB98357CED2D} = {A16E2D26-917C-45DB-8E66-619025EFD5F2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7EFE37C6-C8EA-4279-A4F8-C6ABAFD99820}
